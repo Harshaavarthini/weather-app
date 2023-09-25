@@ -19,7 +19,7 @@
 .search-bar input{
     display: flex;
     width: 370px;
-    height: 60px;
+    height: 50px;
     background-color: aliceblue;
     border: none;
     outline: none;

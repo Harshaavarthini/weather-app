@@ -14,7 +14,7 @@ Tech Stack:
 - CSS
 - OpenWeatherMap API
 
-Check out the live demo: [Weather App Demo]([https://your-demo-link.com](https://harshaavarthini.github.io/weather-app))
+Check out the live demo: [Weather App Demo]([https://harshaavarthini.github.io/weather-app])
 
 Getting Started:
 1. Clone the repository.
